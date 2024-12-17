@@ -1,0 +1,1 @@
+# django_collage_management_system
